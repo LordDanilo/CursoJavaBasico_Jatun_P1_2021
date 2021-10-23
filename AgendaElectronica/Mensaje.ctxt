@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=remitente\ destinatario\ contendio\ hora
+comment0.target=Mensaje(int,\ int,\ java.lang.String,\ Hora)
+comment1.params=
+comment1.target=void\ leerMensaje()
+comment2.params=
+comment2.target=int\ getNumRemi()
+comment3.params=
+comment3.target=void\ verificarEstado()
+numComments=4
